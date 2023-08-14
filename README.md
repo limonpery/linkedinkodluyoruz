@@ -1,0 +1,2 @@
+# linkedinkodluyoruz
+bölümsonuçalışmasıbootsrap
